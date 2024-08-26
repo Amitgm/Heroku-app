@@ -19,6 +19,7 @@ def hello_world():
 
 @app.post("/predict")
 def predict_performance(data:model):
+    
     data = data.dict()
 
     Age = data["Age"]
