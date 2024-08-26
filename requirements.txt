@@ -17,6 +17,6 @@ pandas
 fastapi
 uvicorn
 gunicorn==20.1.0
-# uvloop
+uvloop
 httptools
 
