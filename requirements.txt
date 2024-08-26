@@ -1,10 +1,22 @@
-numpy==1.26.4
+# numpy==1.21.6
+# scipy
+# scikit-learn==0.24.1
+# matplotlib
+# pandas
+# fastapi
+# uvicorn
+# gunicorn==20.1.0
+# # uvloop
+# httptools
+
+numpy
 scipy
-scikit-learn==0.24.1
+scikit-learn
 matplotlib
 pandas
 fastapi
 uvicorn
 gunicorn==20.1.0
-uvloop
+# uvloop
 httptools
+
